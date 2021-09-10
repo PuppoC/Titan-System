@@ -1,3 +1,4 @@
 {
-    "version": 60
+    "version": 60,
+    "announcement": "Test announcement"
 }
